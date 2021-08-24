@@ -297,12 +297,13 @@ figcaption {
 	justify-content: center;
 }
 
+
 .tm-img-overlay-wrap {
 	position: relative;
 	min-height: 280px;
-	background-image: url(../img/p.jpg);
-	background-repeat: repeat;
-	background-size: contain;
+	background-image: url(../img/beach.jpg);
+	background-repeat: no-repeat;
+	background-size: auto;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
 }
