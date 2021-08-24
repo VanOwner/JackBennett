@@ -300,9 +300,9 @@ figcaption {
 .tm-img-overlay-wrap {
 	position: relative;
 	min-height: 280px;
-	background-image: url(../img/contact.jpg);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background-image: url(../img/p.jpg);
+	background-repeat: repeat;
+	background-size: contain;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
 }
