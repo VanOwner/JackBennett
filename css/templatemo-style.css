@@ -301,9 +301,10 @@ figcaption {
 .tm-img-overlay-wrap {
 	position: relative;
 	min-height: 280px;
-	background-image: url(../img/beach.jpg);
+	background-image: url("../img/beach4.jpg");
+	background-position: center;
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: 100%;
 	border-top-left-radius: 20px;
 	border-top-right-radius: 20px;
 }
